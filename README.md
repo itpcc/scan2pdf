@@ -14,9 +14,9 @@ Run `pip install -r requirements.txt` should be enough.
 
 ## Contributing
 
-Pull requests are welcome. (But why?) For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. (But why?)
 
-Please make sure to update tests as appropriate.
+For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
