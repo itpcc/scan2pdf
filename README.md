@@ -2,7 +2,7 @@
 
 This is just a tiny script to help me create a PDF using a WIA-compatible scanner without using a bloated scanner application.
 
-Due to the pandemic thing, I have to do open-book exams. That mean, among other things, send a written answer book to the platform. Using software provided by the scanner manufacturer is not good for time-sensitive jobs. So I create this script to reduce my panic :/.
+Due to the pandemic thing, I have to do open-book exams. That mean, among other things, send a written answer book to the platform. Using software provided by the scanner manufacturer is not good for time-sensitive jobs. So I create this script to reduce my panic during answer submission stage :/.
 
 ## Installation
 
